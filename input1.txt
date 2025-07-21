@@ -1,0 +1,12 @@
+Pikachu
+60
+50
+Charizard
+150
+120
+Blastoise
+140
+100
+Alakazam
+80
+90

@@ -1,0 +1,15 @@
+Mewtwo
+106
+110
+Mew
+100
+100
+Zapdos
+90
+100
+Articuno
+90
+85
+Moltres
+90
+100

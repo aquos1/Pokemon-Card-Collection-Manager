@@ -1,0 +1,12 @@
+Gengar
+60
+65
+Machamp
+90
+130
+Golem
+80
+120
+Gyarados
+95
+125
